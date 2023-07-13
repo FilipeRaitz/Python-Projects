@@ -1,3 +1,6 @@
+# This is my attempt to recreate the game Zombiedice from Steve Jackson Games in python.
+# it is pretty fun a push-your-luck game of dice
+
 import random
 import time
 from collections import Counter
